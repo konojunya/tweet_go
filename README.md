@@ -14,3 +14,7 @@ post
 ```
 $ go run post.go
 ```
+
+## ライブラリ
+
+[anaconda](https://github.com/ChimeraCoder/anaconda)
